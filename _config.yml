@@ -189,6 +189,13 @@ kramdown:
 # PRO version only!
 # tinyletter:            <username>
 
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-9LCS123G23"
+    anonymize_ip         : # true, false (default)
 
 # Hydejack Settings
 # ----------------------------------------------------------------------------------------
