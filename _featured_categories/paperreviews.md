@@ -3,7 +3,7 @@
 layout: list
 
 # The title of the tag's page.
-title: paperreviews
+title: Paper Reviews
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: paperreviews
