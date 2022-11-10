@@ -3,6 +3,10 @@ email:
   name: Email
   icon: icon-mail
   prepend: 'mailto:'
+naver:
+  name: Naver
+  icon: icon-naver
+  prepend: https://blog.naver.com/
 amazon:
   name: Amazon
   icon: icon-amazon
