@@ -50,6 +50,14 @@ author:
 menu:
   - title:             Data Science
     url:               /datascience/
+
+  - title:             Deep Learning
+    url:               /deeplearning/
+  - title:             Machine Learning
+    url:               /machinelearning/
+  - title:             Paper Reviews
+    url:               /paperreviews/
+
   - title:             Example
     url:               /example/
   - title:             Documentation
